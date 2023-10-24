@@ -6,7 +6,6 @@ import java.util.*;
 public class Problem1015 {
     public static void main(String[] args) throws IOException {
 
-
         Scanner sc = new Scanner(System.in);
 
         float x1 = sc.nextFloat();
@@ -18,6 +17,5 @@ public class Problem1015 {
         Distance =Math.sqrt(((x2-x1)*(x2-x1))+((y2-y1)*(y2-y1)));
 
         System.out.println(String.format("%.4f",Distance));
-
     }
 }
