@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.*;
 import static java.lang.Math.sqrt;
 
-public class Problem1023 {
+public class Problem1036 {
     public static void main(String[] args) throws IOException {
 
         Scanner sc = new Scanner(System.in);
