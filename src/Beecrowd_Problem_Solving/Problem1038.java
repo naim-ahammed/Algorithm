@@ -1,4 +1,4 @@
-package problemSolving;
+package Beecrowd_Problem_Solving;
 
 import java.io.IOException;
 import java.util.*;
@@ -35,11 +35,6 @@ public class Problem1038 {
             System.out.println("Total: R$ "+ String.format("%.2f",R$));
 
         }
-
-
-
-
-
 
 
     }

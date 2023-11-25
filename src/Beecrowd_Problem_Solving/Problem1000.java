@@ -1,4 +1,4 @@
-package problemSolving;
+package Beecrowd_Problem_Solving;
 import java.io.IOException;
 
 public class Problem1000 {
