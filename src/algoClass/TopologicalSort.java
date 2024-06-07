@@ -1,4 +1,4 @@
-package class3;
+package algoClass;
 import java.util.*;
 public class TopologicalSort {
     public List<Integer> topologicalSort(int numCourses, int[][] prerequisites) {

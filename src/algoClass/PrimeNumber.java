@@ -1,4 +1,4 @@
-package class3;
+package algoClass;
 
 import java.util.Arrays;
 import java.util.Scanner;

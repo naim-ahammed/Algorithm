@@ -1,6 +1,5 @@
-package class3;
+package algoClass;
 
-import javax.swing.text.html.HTMLDocument;
 import java.util.ArrayList;
 import java.util.Iterator;
 
